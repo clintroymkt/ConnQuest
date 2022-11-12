@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- start_screen strings -->
+
+	<string name="app_name">Page 1</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="play_now_string">Play Now</string>
+	<string name="about_string">About</string>
+	<string name="let_s_see_what_kind_of_quests_we_can_tackle_today__i_m_sure_you_ll_do_your_best__string">Lets see what kind of Quests we can Tackle today. Im sure youll do your best!</string>
+	<string name="score__20_string">Score: 20</string>
+	<string name="quest_1_string">Quest 1 </string>
+	<string name="quest_2_string">Quest 2</string>
+	<string name="quest_3_string">Quest 3</string>
+	<string name="score__25_string">Score: 25</string>
+	<string name="score__0_string">Score: 0</string>
+</resources>

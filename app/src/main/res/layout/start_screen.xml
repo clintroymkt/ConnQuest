@@ -1,0 +1,104 @@
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent" android:layout_height="wrap_content" >
+	<!-- 
+	/*
+	 *	This content is generated from the API File Info.
+	 *	(Alt+Shift+Ctrl+I).
+	 *
+	 *	@desc 		
+	 *	@file 		start_screen
+	 *	@date 		Friday 11th of November 2022 02:33:23 AM
+	 *	@title 		Page 1
+	 *	@author 	
+	 *	@keywords 	
+	 *	@generator 	Export Kit v1.3.figma
+	 *
+	 */
+	-->
+	<ScrollView android:id="@+id/start_screen" 
+		android:layout_width="wrap_content" 
+		android:layout_height="match_parent" >
+
+		<RelativeLayout android:id="@+id/content_container" 
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content" >
+
+
+
+			<RelativeLayout android:id="@+id/page_start_screen_ek1"
+				android:layout_marginTop="0dp"
+				android:layout_marginStart="0dp"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				>
+
+				<View   android:id="@+id/_bg__start_screen_ek2"
+					android:background="@drawable/_bg__start_screen_ek2_shape"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="390dp"
+					android:layout_height="844dp" />
+
+				<ImageView android:id="@+id/vector_1"
+					android:src="@drawable/vector_1"
+					android:contentDescription="vector_1"
+					 android:layout_marginStart="-19dp"
+					android:layout_marginTop="-10dp"
+					android:layout_width="441dp"
+					android:layout_height="338dp" />
+
+				<View   android:id="@+id/rectangle_2"
+					android:background="@drawable/rectangle_2_shape"
+					 android:layout_marginStart="49dp"
+					android:layout_marginTop="496dp"
+					android:layout_width="292dp"
+					android:layout_height="52dp" />
+
+				<TextView android:id="@+id/play_now"
+					android:fontFamily="Nunito"
+					android:textStyle="bold"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:textSize="36sp"
+					android:shadowRadius="4"
+					android:shadowColor="#000000"
+					android:shadowDx="0"
+					android:shadowDy="4"
+					android:textColor="@color/play_now_color"
+					android:layout_marginLeft="99dp"
+					android:layout_marginTop="496dp"
+					android:layout_width="203dp"
+					android:layout_height="71dp"
+					android:text="@string/play_now_string"
+					 />
+
+				<View   android:id="@+id/rectangle_3"
+					android:background="@drawable/rectangle_3_shape"
+					 android:layout_marginStart="49dp"
+					android:layout_marginTop="653dp"
+					android:layout_width="294dp"
+					android:layout_height="54dp" />
+
+				<TextView android:id="@+id/about"
+					android:fontFamily="Nunito"
+					android:textStyle="bold"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:textSize="36sp"
+					android:shadowRadius="4"
+					android:shadowColor="#000000"
+					android:shadowDx="0"
+					android:shadowDy="4"
+					android:textColor="@color/play_now_color"
+					android:layout_marginLeft="99dp"
+					android:layout_marginTop="655dp"
+					android:layout_width="203dp"
+					android:layout_height="71dp"
+					android:text="@string/about_string"
+					 />
+
+			</RelativeLayout>
+		</RelativeLayout>
+
+	</ScrollView>
+</HorizontalScrollView>
